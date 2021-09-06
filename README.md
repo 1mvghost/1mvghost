@@ -1,5 +1,4 @@
-Hi, I'm 1mvghost
-I'm currently learning C#
+Hi, I'm 1mvghost and i'm currently learning C#
 
 <!---
 1mvghost/1mvghost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
